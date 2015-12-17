@@ -1,6 +1,6 @@
 {
   "name": "alquimia-alquimia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Glue between Angular and Wordpress.",
   "dependencies": {
     "alquimia-angular": ""
