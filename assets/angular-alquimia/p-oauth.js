@@ -8,8 +8,7 @@
  * @description
  * Provides login using one of three OAuth2 authentication modes
  * (see {@link alquimia.alquimia:oauth#methods_login login}). It
- * works with or without the `angular-route` module installed and
- * with or without the `$location`'s html5Mode enabled.
+ * requires pretty URLs (no hash).
  */
 module.exports = [function OAuthProvider() {
   let $window, $http, $q, $cookies, $location;
