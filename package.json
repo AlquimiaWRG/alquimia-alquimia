@@ -1,0 +1,13 @@
+{
+  "name": "alquimia-alquimia",
+  "version": "0.0.1",
+  "description": "Glue between Angular and Wordpress.",
+  "dependencies": {
+    "alquimia-angular": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauro Constantinescu",
+  "license": "ISC"
+}
